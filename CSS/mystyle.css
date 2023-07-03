@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+main {
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+}
+
+label, input{
+    display: block;
+}
+
+label {
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 10px;
+}
+main h1{
+    margin-bottom: 20px;
+}
+.error_message {
+    color: red;
+    font-size: 10px;
+    padding-bottom: 10px;
+    
+}
